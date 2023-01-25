@@ -1,3 +1,6 @@
+# Sources :
+All mods and plugins are from : https://www.curseforge.com/minecraft/modpacks
+
 # Server informations :
 Address : mc-servers.racteurdomein.be:25000
 
